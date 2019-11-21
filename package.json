@@ -1,0 +1,12 @@
+{
+  "name": "react-useonload",
+  "version": "1.0.1",
+  "description": "React hook for onload",
+  "main": "index.js",
+  "repository": "https://github.com/jamiller619/react-useonload.git",
+  "author": "Jeff Miller <hello@jamiller.me>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.12.0"
+  }
+}
